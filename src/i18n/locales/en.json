@@ -1,0 +1,158 @@
+{
+  "aria": {
+    "selectTheme": "Select {theme} theme",
+    "selectColor": "Select {color} accent color",
+    "navigateToSection": "Navigate to {section}"
+  },
+  "sections": {
+    "home": {
+      "name": "Home",
+      "pageTitle": "John Paul {'|'} Software Developer",
+      "greeting": "Hey there!",
+      "personName": "John Paul",
+      
+      "title": "Software Developer & Designer",
+      "subtitle": "I love building beautiful and functional web applications.",
+      "itsMe": "It's me",
+      "getInTouch": "Get in Touch"
+    },
+    "about": {
+      "name": "About",
+      "pageTitle": "About Me {'|'} John Paul",
+      "heading": "About Me",
+      "description": "I’m John Paul, a Computer Science student passionate about software development and problem-solving. I’m currently building my skills in full-stack web development, focusing on creating responsive and user-friendly web applications. My goal is to grow as a Software Developer, applying my knowledge to real-world projects while continuously learning new technologies. I’m excited to connect with like-minded professionals and explore opportunities in the tech industry."
+    },
+    "licensesAndCerts": {
+      "name": "Licenses and Certifications",
+      "pageTitle": "Licenses and Certifications {'|'} John Doe",
+      "heading": "Licenses and Certifications",
+      "additionalHeading": "Additional Certifications",
+      "verifyButton": "Verify Certification",
+      "featured": {
+        "aws_cfl": {
+          "title": "AWS Cloud Practitioner",
+          "alt": "AWS Cloud Practitioner Certification Badge",
+          "details": "Validates overall understanding of the AWS Cloud"
+        },
+        "aws_da": {
+          "title": "AWS Certified Developer - Associate",
+          "alt": "AWS Developer Associate Certification Badge",
+          "details": "Design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives"
+        },
+        "radio": {
+          "title": "Amateur Wireless Station license",
+          "alt": "Amateur Radio License Badge",
+          "details": "Licensed amateur radio operator with expertise in wireless communications"
+        }
+      },
+      "other": {
+        "react": {
+          "title": "React Developer",
+          "alt": "React Developer Certification"
+        },
+        "vue": {
+          "title": "Vue.js Developer",
+          "alt": "Vue.js Developer Certification"
+        },
+        "typescript": {
+          "title": "TypeScript",
+          "alt": "TypeScript Certification"
+        },
+        "nodejs": {
+          "title": "Node.js",
+          "alt": "Node.js Developer Certification"
+        },
+        "mongodb": {
+          "title": "MongoDB",
+          "alt": "MongoDB Certification"
+        },
+        "docker": {
+          "title": "Docker",
+          "alt": "Docker Certification"
+        }
+      }
+    },
+    "projects": {
+      "name": "Projects",
+      "pageTitle": "Projects {'|'} John Paul",
+      "heading": "My Projects",
+      "viewButton": "View Project",
+      "items": {
+        "project1": {
+          "title": "Project 1",
+          "description": "An e-commerce platform built with html,css, Javascript and PHP."
+        },
+        "project2": {
+          "title": "Project 2",
+          "description": "Coffee shop website with online ordering system using html,css, Javacript and PHP."
+        },
+        "project3": {
+          "title": "Project 3",
+          "description": "A responsive portfolio website using Vue and Tailwind CSS."
+        },
+        "project4": {
+          "title": "Project 4",
+          "description": "Library management system using html,css, Javascript and PHP."
+        },
+        "project5": {
+          "title": "Project 5",
+          "description": "A real-time chat application using html,css, Javascript and PHP."
+        }
+      }
+    },
+    "contact": {
+      "name": "Contact",
+      "pageTitle": "Contact Me {'|'} John Doe",
+      "heading": "Contact Me",
+      "description": "Feel free to reach out to me via email or connect on social media!",
+      "emailButton": "Send me an email",
+      "socialNames": {
+        "linkedin": "LinkedIn",
+        "github": "GitHub",
+        "instagram": "Instagram"
+      }
+    }
+  },
+  "settings": {
+    "theme": {
+      "label": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System ({theme})"
+    },
+    "accentColor": {
+      "label": "Accent Color",
+      "emerald": "Emerald",
+      "green": "Green",
+      "lime": "Lime",
+      "red": "Red",
+      "orange": "Orange",
+      "amber": "Amber",
+      "yellow": "Yellow",
+      "teal": "Teal",
+      "cyan": "Cyan",
+      "sky": "Sky",
+      "blue": "Blue",
+      "indigo": "Indigo",
+      "violet": "Violet",
+      "purple": "Purple",
+      "fuchsia": "Fuchsia",
+      "pink": "Pink",
+      "rose": "Rose",
+      "slate": "Slate",
+      "gray": "Gray",
+      "zinc": "Zinc",
+      "neutral": "Neutral",
+      "stone": "Stone"
+    },
+    "showScrollbar": {
+      "label": "Show Scrollbar"
+    },
+    "language": {
+      "label": "Language"
+    },
+    "customize": {
+      "label": "Customize your experience"
+    }
+  }
+}
